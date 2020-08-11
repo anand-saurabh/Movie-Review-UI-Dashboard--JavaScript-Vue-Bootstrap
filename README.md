@@ -1,2 +1,28 @@
-# Movie-Review-UI-Dashboard--JavaSript-Vue-Bootstrap-
-This is dashboard which lets you create, edit reviews of different movies. Also, you can filter movies in the UI by genre, director and other fields.
+# frontend
+
+## Project setup
+```
+npm install
+```
+## Install libraries
+npm install --save vue-resource  <br />
+npm install --save vue-multiselect
+
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

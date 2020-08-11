@@ -1,15 +1,16 @@
 # Movie-Review-UI-Dashboard-- Built using JavaSript, VueJS, Bootstrap and CSS.
 This is a movie review dashboard which lets you create, edit or view reviews of different movies based on your role (role such as critics etc). Also, you can filter movies in the UI by genre, director and other fields.
 
-Dashboard Screenshot:
+# UI Dashboard Screenshot:
 
 ![](images/snip1.PNG)
 
-Applied Filters on Movies:
+# Applied Filters on Movies in the UI:
 
 ![](images/snip2.PNG)
 
-Drop Down Filters:
+# Drop Down Filter:
+
 ![](images/snip3.png)
 
 
